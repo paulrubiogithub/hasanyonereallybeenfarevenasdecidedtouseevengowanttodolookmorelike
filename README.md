@@ -1,2 +1,2 @@
-# hasanyonereallybeenfarevenasdecidedtouseevengowanttodolookmorelike
-R O B O T I C S
+# Ev3 Project Paul Rubio, Wenhao Cui, Khondaker
+Ev3 robot code/files
